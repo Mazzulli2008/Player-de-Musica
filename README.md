@@ -11,5 +11,6 @@ Esse projeto foi feito no intuito de poder criar players de músicas, ainda não
 
 ## Como ter acesso ao Layout do projeto ❓
 
-É possível acessar o projeto através <a href="https://www.figma.com/design/1h0VOdNx1sVxbajnR8UZ5N/Player-de-M%C3%BAsica-%E2%80%A2-Desafio-01-(Community)?node-id=1-133&p=f&t=XkOBQXXJ8G5HQQ2L-0"> DESSE </a> botão
+É possível acessar o projeto através <a href="https://www.figma.com/design/1h0VOdNx1sVxbajnR8UZ5N/Player-de-M%C3%BAsica-%E2%80%A2-Desafio-01-(Community)?node-id=1-133&p=f&t=XkOBQXXJ8G5HQQ2L-0"> DESSE </a> botão.
+
 
